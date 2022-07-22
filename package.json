@@ -44,7 +44,7 @@
   "dependencies": {
     "@golevelup/nestjs-modules": "^0.4.3",
     "@google-cloud/tasks": "^2.4.2",
-    "rxjs": "^6.x"
+    "rxjs": "^7.5.6"
   },
   "devDependencies": {
     "@nestjs/common": "^8.1.2",
